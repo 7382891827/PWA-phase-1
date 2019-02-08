@@ -1,0 +1,47 @@
+{
+	"card1": [{
+			"image": "img.png",
+			"name": "Madhu",
+			"occ": "APSSDC",
+			"profile": "profile"
+		},
+		{
+			"image": "img.png",
+			"name": "Mahi",
+			"occ": "APSRTC",
+			"profile": "profile"
+		}
+	],
+	"personalDetails": {
+		"image": "images.png",
+		"myname": "SUSHMA",
+		"designation": "Studying Engineering",
+		"fname": "D/O SRINIVASULLU",
+		"email": "SUSHMARVS9@gmail.com",
+		"phonenumber": "7895672346",
+		"address": "ONGOLE"
+	},
+  "carrerobject":{
+    "info":"CARRER OBJECT:",
+    "obj":"To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills."
+  },
+	"ACADEMICS": [{
+			"qualifications": "B.Tech",
+			"inst": "Qis College Of Engineering And Technology for JNTU,Kakinada for 87.63 marks secured"
+		},
+		{
+			"QUALIFICATIONS": "Intermediate",
+			"inst1": "Sri Gayatri Vidhya Parishat College, marks secured 935.00"
+		},
+		{
+			"QUALIFICATIONs": "S.S.C",
+			"inst2": "Z.P.High School marks secured 82.00"
+		}
+	],
+	"TECNICAL SKILLS": {
+		"name": "c,python,java"
+	},
+	"Hobbies": {
+		"name": "reading books,watching movies,etc."
+	}
+}

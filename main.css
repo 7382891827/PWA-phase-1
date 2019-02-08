@@ -1,0 +1,19 @@
+*{
+  text-transform: uppercase;
+  text-align: center;
+}
+img{
+  width:15vh;
+  border-radius: 62%;
+}
+.card{
+   background:yellow;
+   width:30%;
+   margin :auto;
+   padding:2px 0px 2px 0px;
+   border-radius: 5px;
+   box-shadow: 2px 2px 2px blue;
+}
+.cards{
+  display:flex;
+}
